@@ -1,0 +1,23 @@
+.FollowUserListItem .Body .FollowUserItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.FollowUserListItem .Body .FollowUserItem a {
+  text-decoration: none;
+  color: #1876F2;
+}
+
+.FollowUserListItem .Body .FollowUserItem .Inf {
+  display: flex;
+}
+
+.FollowUserListItem .Body .FollowUserItem .Inf p {
+  margin: 2px 6px;
+}
+
+.FollowUserListItem .Body .FollowUserItem .Inf img {
+  border-radius: 50%;
+}
