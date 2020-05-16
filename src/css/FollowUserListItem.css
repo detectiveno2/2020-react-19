@@ -1,0 +1,29 @@
+.FollowUserListItem {
+  width: 300px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  padding: 6px 10px;
+}
+
+.FollowUserListItem p {
+  margin: 0px;
+}
+
+.FollowUserListItem .Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.FollowUserListItem .silver-text {
+  color: #999999;
+}
+
+.FollowUserListItem .Header a {
+  text-decoration: none;
+  color: black;
+}
+
+.FollowUserListItem .Body {
+  padding: 0px 6px;
+}
